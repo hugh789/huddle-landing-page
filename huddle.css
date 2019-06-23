@@ -1,0 +1,181 @@
+
+.Build-div {
+position: relative;
+top: 100px;
+margin-left: 20px;
+}
+.Build-div-h3 {
+	width: 70%;
+	line-height: 1.5;
+	padding-bottom: 20px;
+}
+.title {
+	background-color: #eaf5ff;
+	box-sizing: border-box;
+}
+body {
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+}
+p {
+	color: hsl(208, 11%, 55%):;
+}
+div, img {
+	width: 100%;
+}
+img{
+	vertical-align: middle;
+	border-style: none;
+}
+second-section-1st div,
+second-section-2nd div,
+second-section-3rd div,
+{
+	width: 70%;
+	margin: 50px auto;
+}
+.grow-together-img {
+	width: 40%;
+	float: right;
+	margin-left: 50px;
+	padding-top: 20px;
+}
+.row
+{
+	display:flex;
+	flex-wrap: wrap;
+	margin-right:-15px;
+	margin-left:-15px;
+}
+.common {
+	padding-top: 70px;
+	justify-content: center;
+	text-align: center;
+}
+p 
+{
+	margin-top: 0;
+	margin-bottom: 1rem;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+section {
+	display: block;
+	box-sizing: border-box;
+}
+.fiowing-conversation-img {
+	width: 40%;
+	float: left;
+	margin-right: 50px;
+}
+.butn2 button-mobile
+{
+	object-position: center;
+}
+.more {
+    box-shadow: 0 0 10px var(--light-grey);
+    width: 90%;
+    text-align: center;
+    border-radius: 20px;
+    padding: 60px 30px;
+    background: var(--white);
+    margin: 50px auto;
+    position: relative;
+    -webkit-transform: translateY(70%);
+    transform: translateY(70%);
+}
+.more__title {
+    font-size: 1.5rem;
+    margin-top: 0;
+    margin-bottom: 50px;
+}
+.more__button {
+    text-decoration: none;
+    font-family: var(--font-open-sans);
+    font-size: var(--font-size);
+    font-weight: 700;
+    color: var(--white);
+    background: var(--pink);
+    border: none;
+    padding: 15px 80px;
+    border-radius: 30px;
+    box-shadow: 0 12px 15px var(--light-grey);
+}
+.footer {
+    background: #00252D;
+    padding: 200px 60px 70px;
+    color: white;
+}
+.footer__logo {
+    -webkit-filter: invert(100%) grayscale(100%);
+    filter: invert(100%) grayscale(100%);
+    margin-bottom: 30px;
+    padding-left: 0;
+    display: inline-block;
+}
+.footer__inner-box {
+    margin-bottom: 30px;
+    display: grid;
+    grid-template-columns: 40% 40% 20%;
+}
+.footer__nav {
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-pack: space-evenly;
+    justify-content: space-evenly;
+}
+.footer__socials {
+    text-align: left;
+    margin-top: 10px;
+}
+<!--
+## Layout
+
+The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px
+
+## Colors
+
+### Primary
+
+- Pink: hsl(322, 100%, 66%)
+
+### Neutral
+
+- Very Pale Cyan: hsl(193, 100%, 96%)
+- Very Dark Cyan: hsl(192, 100%, 9%)
+- Grayish Blue: hsl(208, 11%, 55%)
+
+## Typography
+
+### Body Copy
+
+- Font size: 18px
+
+### Headings
+
+- Family: [Poppins](https://fonts.google.com/specimen/Poppins)
+- Weights: 600
+
+### Body, Call-to-actions
+
+- Family: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
+- Weights: 400, 700
+
+## Icons
+
+For the social icons, you can use a font icon library. Some suggestions can be found below:
+
+- [Font Awesome](https://fontawesome.com/)
+- [IcoMoon](https://icomoon.io/)
+- [Ionicons](https://ionicons.com/)
